@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "930128949995",
+    "project_id": "riyapola-revamp",
+    "storage_bucket": "riyapola-revamp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930128949995:android:2db45d96d23d11c335c4ae",
+        "android_client_info": {
+          "package_name": "com.example.riyapola_revamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930128949995-vg8socgrvt9oi61hou77vks73nrv6gi9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riyapola_revamp",
+            "certificate_hash": "09512d7571295a65df4a41433183452d4eac7e5b"
+          }
+        },
+        {
+          "client_id": "930128949995-hpuulv9ml28j08cd6msrug39igbqfc7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEpiyuFiv2_PI6VFvg1XjurIbObQUF9kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930128949995-hpuulv9ml28j08cd6msrug39igbqfc7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
